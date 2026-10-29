@@ -1,0 +1,3 @@
+Project: Student Management System
+Purpose: DevOps Practical
+Status: In Progress
